@@ -1,0 +1,2 @@
+!function(){function e(e,o,n,l){Object.defineProperty(e,o,{get:n,set:l,enumerable:!0,configurable:!0})}var o,n={};o=n,Object.defineProperty(o,"__esModule",{value:!0,configurable:!0}),e(n,"a",(function(){return l})),e(n,"doHomeTasks",(function(){return t})),e(n,"default",(function(){return c}));var l="Hello";function t(){console.log("World")}var r,c="Hello NODE.js";console.table(n),console.table(n.doHomeTasks),console.log("fetch"),r="Hello World!",console.log(r)}();
+//# sourceMappingURL=index.e8ccefd2.js.map
